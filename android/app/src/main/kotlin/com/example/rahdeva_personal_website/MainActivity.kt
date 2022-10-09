@@ -1,0 +1,6 @@
+package com.example.rahdeva_personal_website
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
